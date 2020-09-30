@@ -1,2 +1,2 @@
 # Projects
-Machine Learning and AI related Work
+This repo contains machine learning and deep learning algorithms
